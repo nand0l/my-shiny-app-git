@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          The App will then rebuild and redeployed the only thing is to send out a GIT commit
         </p>
         <a
           className="App-link"
