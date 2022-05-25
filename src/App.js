@@ -9,7 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.</p>
           <p>
-          The App will then rebuild and redeployed the only thing is to send out a GIT commit</p>
+          The App will then rebuild and redeployed the only thing is to send out a GIT commit<BR/>
+          So lets check it out....</p>
         <a
           className="App-link"
           href="https://reactjs.org"
